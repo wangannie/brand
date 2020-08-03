@@ -1,4 +1,4 @@
-# 18F Visual Identity
+# NIH STRIDES Visual Identity
 This is the home of 18F's evolving brand assets and visual style guide. It's a work in progress, and we are releasing new assets as we are able.
 
 Come visit us in [#18f-branding](https://18f.slack.com/archives/18f-branding) on slack for help with implementing these assets, questions, or to philosophize on the meaning of type.
