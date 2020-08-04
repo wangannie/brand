@@ -6,7 +6,7 @@ This is the home of the NIH STRIDES Initiative's evolving brand assets and visua
 ### Installation
 You should just be able to copy and paste each of the following steps to get the brand site up and running.
 
-0. `git clone git@github.com:18F/brand.git && cd brand`
+0. `git clone git@github.com:wangannie/brand.git && cd brand`
 0. `bundle install`
 0. `bundle exec jekyll serve`
 0. You should be able to see the branding site at [http://127.0.0.1:4000](127.0.0.1:4000)
