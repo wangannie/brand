@@ -2,16 +2,16 @@
   hex: 'FFFFFF'
 
 - name: light
-  hex: 'B3EFFF'
+  hex: '9bd4cf'
 
 - name: bright
-  hex: '00CFFF'
+  hex: '00a398'
 
 - name: medium
-  hex: '046B99'
+  hex: '074B69'
 
 - name: dark
-  hex: '1C304A'
+  hex: '002D3F'
 
 - name: black
   hex: '000000'
