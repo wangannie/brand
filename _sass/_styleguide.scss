@@ -256,7 +256,7 @@ h2.styleguide-header {
 // Footer --------------- //
 
 .usa-styleguide-footer {
-  background-color: $color-dark;;
+  background-color: $color-dark;
 
   // https://github.com/philipwalton/flexbugs#1-minimum-content-sizing-of-flex-items-not-honored
   flex-shrink: 0;
@@ -307,6 +307,7 @@ h2.styleguide-header {
 .usa-color-hex {
   margin-bottom: 1em;
   margin-top: 0;
+  text-transform: uppercase;
 
   @include media($medium-screen) {
     margin: 0;
@@ -466,10 +467,6 @@ a {
 
   &:hover {
     text-decoration: none;
-  }
-
-  &:visited {
-    color: $color-medium;
   }
 }
 

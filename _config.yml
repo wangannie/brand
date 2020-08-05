@@ -2,8 +2,8 @@ name: NIH STRIDES Visual Identity
 
 repo:
 - name: NIH STRIDES Visual Identity
-  description: Main repository for the NIH STRIDES initiative's visual identity resources
-  url: https://github.com/wangannie/brand
+  description: Main repository for the NIH STRIDES Initiative's visual identity resources
+  url: https://github.com/NIHGOV/STRIDES-Brand
 
 exclude:
 - README.md

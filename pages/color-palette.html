@@ -4,9 +4,6 @@ layout: default
 title: Color palette
 ---
 
-<p>For Adobe, Sketch, and Mac applications</p>
-<a class="usa-button usa-button-gray" href="{{ site.baseurl }}/assets/dist/18F_Color_Palette.zip">Download color palettes</a>
-
 <div class="usa-grid-full usa-color-row usa-primary-color-section">
   {% for color in site.data.palette %}
   <div class="usa-color-square usa-color-{{ color.name }} {% cycle '', 'usa-mobile-end-row' %}">
@@ -22,7 +19,7 @@ title: Color palette
 
 
 <h2>Guidelines</h2>
-<p><strong>Do</strong> use the STRIDES brand colors in combinations that conform with accessibility standards. Each of these combinations meets or exceeds a contrast ratio of 4.5:1, and is approved for body and headline text. For more details on color contrast, read the <a href="https://pages.18f.gov/accessibility/">18F Accessibility Guide</a>.</p>
+<p><strong>Do</strong> use the STRIDES brand colors in combinations that conform with accessibility standards. Each of these combinations meets or exceeds a contrast ratio of 4.5:1, and is approved for body and headline text. For more details on color contrast, read the <a href="https://accessibility.digital.gov/visual-design/color-and-contrast/">Digital.gov Color and Contrast Guidelines</a>.</p>
 
 
 {% include color-matrix.html %}
